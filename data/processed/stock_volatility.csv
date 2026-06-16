@@ -1,0 +1,80 @@
+vol_id,ticker,company_name,market,sector,ann_volatility_pct,avg_atr_pct,max_drawdown_pct,volatility_rank,volatility_category
+1,AAPL,Apple,US,Technology,27.87,2.21,-43.8,11,Medium
+2,ABT,Abbott Laboratories,US,Healthcare,21.44,1.79,-33.88,24,Low
+3,ADANIENT.NS,Adani Enterprises,India,Infra/Other,51.94,4.57,-81.03,1,High
+4,ADANIPORTS.NS,Adani Ports & SEZ,India,Infra/Other,38.7,3.58,-53.24,5,High
+5,AMD,Advanced Micro Devices,US,Technology,55.77,4.48,-84.06,2,High
+6,AMZN,Amazon,US,Consumer Disc.,32.73,2.61,-56.15,9,High
+7,APOLLOHOSP.NS,Apollo Hospitals,India,Pharma,32.65,3.14,-39.42,14,High
+8,ASIANPAINT.NS,Asian Paints,India,Infra/Other,25.19,2.43,-35.32,43,Low
+9,AVGO,Broadcom,US,Technology,36.78,2.93,-48.3,6,High
+10,AXISBANK.NS,Axis Bank,India,Banking,34.13,2.97,-63.11,10,High
+11,BAC,Bank of America,US,Financials,33.61,2.61,-74.2,8,High
+12,BAJAJ-AUTO.NS,Bajaj Auto,India,Auto,25.77,2.5,-38.42,40,Low
+13,BAJAJFINSV.NS,Bajaj Finserv,India,Finance,34.12,3.24,-58.57,11,High
+14,BAJFINANCE.NS,Bajaj Finance,India,Finance,35.3,3.31,-62.44,8,High
+15,BEL.NS,Bharat Electronics,India,Infra/Other,34.29,3.29,-67.2,9,High
+16,BHARTIARTL.NS,Bharti Airtel,India,Infra/Other,30.72,3.0,-46.78,20,Medium
+17,BPCL.NS,Bharat Petroleum Corporation,India,Energy,34.01,3.17,-50.13,12,High
+18,BRITANNIA.NS,Britannia Industries,India,FMCG,25.39,2.59,-37.68,42,Low
+19,BRK-B,Berkshire Hathaway (Class B),US,Financials,19.45,1.51,-29.57,26,Low
+20,CAT,Caterpillar,US,Industrials,29.05,2.41,-44.63,10,Medium
+21,CIPLA.NS,Cipla,India,Pharma,25.84,2.56,-47.9,39,Low
+22,COALINDIA.NS,Coal India,India,Energy,29.62,2.75,-64.65,25,Medium
+23,COST,Costco,US,Consumer Disc.,20.21,1.68,-31.4,25,Low
+24,CRM,Salesforce,US,Technology,36.24,2.87,-58.62,7,High
+25,CSCO,Cisco Systems,US,Technology,25.86,1.99,-49.84,17,Medium
+26,CVX,Chevron,US,Energy,26.78,2.06,-55.77,16,Medium
+27,DIVISLAB.NS,Divi's Laboratories,India,Pharma,29.48,2.83,-59.54,26,Medium
+28,DRREDDY.NS,Dr. Reddy's Laboratories,India,Pharma,25.73,2.45,-55.89,41,Low
+29,EICHERMOT.NS,Eicher Motors,India,Auto,32.59,3.15,-60.66,16,High
+30,GOOGL,Alphabet (Class A),US,Communication,27.33,2.14,-44.32,13,Medium
+31,GRASIM.NS,Grasim Industries,India,Infra/Other,28.2,2.7,-68.59,29,Medium
+32,HCLTECH.NS,HCL Technologies,India,IT,27.9,2.67,-34.72,31,Medium
+33,HD,Home Depot,US,Consumer Disc.,23.22,1.91,-37.99,23,Low
+34,HDFCBANK.NS,HDFC Bank,India,Banking,23.28,2.11,-41.05,48,Low
+35,HDFCLIFE.NS,HDFC Life Insurance,India,Finance,30.25,2.7,-46.19,22,Medium
+36,HEROMOTOCO.NS,Hero MotoCorp,India,Auto,28.37,2.65,-58.18,28,Medium
+37,HINDALCO.NS,Hindalco Industries,India,Metal,39.82,3.63,-74.32,3,High
+38,HINDUNILVR.NS,Hindustan Unilever,India,FMCG,23.46,2.17,-30.46,47,Low
+39,ICICIBANK.NS,ICICI Bank,India,Banking,31.82,2.77,-51.53,18,Medium
+40,INDUSINDBK.NS,IndusInd Bank,India,Banking,38.9,3.3,-85.03,4,High
+41,INFY.NS,Infosys,India,IT,27.14,2.27,-37.36,35,Low
+42,ITC.NS,ITC,India,FMCG,24.54,2.24,-55.28,45,Low
+43,JNJ,Johnson & Johnson,US,Healthcare,16.71,1.42,-27.37,30,Low
+44,JPM,JPMorgan Chase,US,Financials,27.77,2.18,-43.63,12,Medium
+45,JSWSTEEL.NS,JSW Steel,India,Metal,36.86,3.43,-65.82,6,High
+46,KOTAKBANK.NS,Kotak Mahindra Bank,India,Banking,27.66,2.6,-36.5,33,Low
+47,LLY,Eli Lilly,US,Healthcare,24.89,2.01,-24.24,22,Low
+48,LT.NS,Larsen & Toubro,India,Infra/Other,28.48,2.53,-54.6,27,Medium
+49,M&M.NS,Mahindra & Mahindra,India,Auto,30.21,2.84,-72.28,23,Medium
+50,MA,Mastercard,US,Financials,27.32,2.14,-41.0,14,Medium
+51,MARUTI.NS,Maruti Suzuki,India,Auto,28.2,2.53,-58.26,29,Medium
+52,MCD,McDonald's,US,Consumer Disc.,18.59,1.48,-36.9,28,Low
+53,META,Meta Platforms,US,Communication,39.86,2.92,-76.74,5,High
+54,MSFT,Microsoft,US,Technology,25.58,2.04,-37.15,18,Medium
+55,NESTLEIND.NS,Nestle India,India,FMCG,30.43,2.34,-76.38,21,Medium
+56,NFLX,Netflix,US,Communication,49.99,3.67,-81.99,3,High
+57,NTPC.NS,NTPC,India,Energy,26.35,2.57,-46.94,37,Low
+58,NVDA,NVIDIA,US,Technology,45.44,3.58,-66.34,4,High
+59,ONGC.NS,ONGC,India,Energy,32.6,2.97,-76.79,15,High
+60,ORCL,Oracle,US,Technology,26.84,2.06,-40.36,15,Medium
+61,PG,Procter & Gamble,US,Consumer Staples,17.09,1.43,-25.46,29,Low
+62,POWERGRID.NS,Power Grid Corporation,India,Energy,24.31,2.45,-29.32,46,Low
+63,RELIANCE.NS,Reliance Industries,India,Energy,27.4,2.36,-45.09,34,Low
+64,SBILIFE.NS,SBI Life Insurance,India,Finance,27.7,2.73,-46.84,32,Medium
+65,SBIN.NS,State Bank of India,India,Banking,33.12,2.83,-59.49,13,High
+66,SHRIRAMFIN.NS,Shriram Finance,India,Finance,41.32,3.84,-71.87,2,High
+67,SUNPHARMA.NS,Sun Pharmaceutical,India,Pharma,28.11,2.74,-71.46,30,Medium
+68,TATACONSUM.NS,Tata Consumer Products,India,FMCG,31.29,3.02,-44.3,19,Medium
+69,TATASTEEL.NS,Tata Steel,India,Metal,36.24,3.23,-69.51,7,High
+70,TCS.NS,Tata Consultancy Services,India,IT,24.8,2.26,-27.21,44,Low
+71,TECHM.NS,Tech Mahindra,India,IT,30.14,2.93,-52.78,24,Medium
+72,TITAN.NS,Titan Company,India,Infra/Other,32.31,2.99,-41.73,17,Medium
+73,TSLA,Tesla,US,Consumer Disc.,57.38,4.54,-73.63,1,High
+74,ULTRACEMCO.NS,UltraTech Cement,India,Infra/Other,26.94,2.63,-37.5,36,Low
+75,UNH,UnitedHealth Group,US,Healthcare,25.4,2.13,-35.9,19,Medium
+76,V,Visa,US,Financials,24.99,1.96,-36.36,20,Low
+77,WIPRO.NS,Wipro,India,IT,26.16,2.51,-50.02,38,Low
+78,WMT,Walmart,US,Consumer Staples,19.19,1.55,-36.44,27,Low
+79,XOM,Exxon Mobil,US,Energy,24.96,1.99,-62.4,21,Low

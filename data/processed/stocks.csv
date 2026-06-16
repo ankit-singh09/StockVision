@@ -1,0 +1,81 @@
+stock_id,ticker,company_name,market,sector,exchange,created_at
+1,TCS.NS,Tata Consultancy Services,India,IT,NSE,2026-06-14 11:05:55
+2,INFY.NS,Infosys,India,IT,NSE,2026-06-14 11:05:55
+3,HCLTECH.NS,HCL Technologies,India,IT,NSE,2026-06-14 11:05:55
+4,WIPRO.NS,Wipro,India,IT,NSE,2026-06-14 11:05:55
+5,TECHM.NS,Tech Mahindra,India,IT,NSE,2026-06-14 11:05:55
+6,HDFCBANK.NS,HDFC Bank,India,Banking,NSE,2026-06-14 11:05:55
+7,ICICIBANK.NS,ICICI Bank,India,Banking,NSE,2026-06-14 11:05:55
+8,AXISBANK.NS,Axis Bank,India,Banking,NSE,2026-06-14 11:05:55
+9,KOTAKBANK.NS,Kotak Mahindra Bank,India,Banking,NSE,2026-06-14 11:05:55
+10,SBIN.NS,State Bank of India,India,Banking,NSE,2026-06-14 11:05:55
+11,INDUSINDBK.NS,IndusInd Bank,India,Banking,NSE,2026-06-14 11:05:55
+12,BAJFINANCE.NS,Bajaj Finance,India,Finance,NSE,2026-06-14 11:05:55
+13,BAJAJFINSV.NS,Bajaj Finserv,India,Finance,NSE,2026-06-14 11:05:55
+14,HDFCLIFE.NS,HDFC Life Insurance,India,Finance,NSE,2026-06-14 11:05:55
+15,SBILIFE.NS,SBI Life Insurance,India,Finance,NSE,2026-06-14 11:05:55
+16,SHRIRAMFIN.NS,Shriram Finance,India,Finance,NSE,2026-06-14 11:05:55
+17,MARUTI.NS,Maruti Suzuki,India,Auto,NSE,2026-06-14 11:05:55
+18,TATAMOTORS.NS,Tata Motors,India,Auto,NSE,2026-06-14 11:05:55
+19,M&M.NS,Mahindra & Mahindra,India,Auto,NSE,2026-06-14 11:05:55
+20,BAJAJ-AUTO.NS,Bajaj Auto,India,Auto,NSE,2026-06-14 11:05:55
+21,HEROMOTOCO.NS,Hero MotoCorp,India,Auto,NSE,2026-06-14 11:05:55
+22,EICHERMOT.NS,Eicher Motors,India,Auto,NSE,2026-06-14 11:05:55
+23,SUNPHARMA.NS,Sun Pharmaceutical,India,Pharma,NSE,2026-06-14 11:05:55
+24,DRREDDY.NS,Dr. Reddy's Laboratories,India,Pharma,NSE,2026-06-14 11:05:55
+25,CIPLA.NS,Cipla,India,Pharma,NSE,2026-06-14 11:05:55
+26,DIVISLAB.NS,Divi's Laboratories,India,Pharma,NSE,2026-06-14 11:05:55
+27,APOLLOHOSP.NS,Apollo Hospitals,India,Pharma,NSE,2026-06-14 11:05:55
+28,RELIANCE.NS,Reliance Industries,India,Energy,NSE,2026-06-14 11:05:55
+29,ONGC.NS,ONGC,India,Energy,NSE,2026-06-14 11:05:55
+30,BPCL.NS,Bharat Petroleum Corporation,India,Energy,NSE,2026-06-14 11:05:55
+31,POWERGRID.NS,Power Grid Corporation,India,Energy,NSE,2026-06-14 11:05:55
+32,NTPC.NS,NTPC,India,Energy,NSE,2026-06-14 11:05:55
+33,COALINDIA.NS,Coal India,India,Energy,NSE,2026-06-14 11:05:55
+34,HINDUNILVR.NS,Hindustan Unilever,India,FMCG,NSE,2026-06-14 11:05:55
+35,ITC.NS,ITC,India,FMCG,NSE,2026-06-14 11:05:55
+36,NESTLEIND.NS,Nestle India,India,FMCG,NSE,2026-06-14 11:05:55
+37,BRITANNIA.NS,Britannia Industries,India,FMCG,NSE,2026-06-14 11:05:55
+38,TATACONSUM.NS,Tata Consumer Products,India,FMCG,NSE,2026-06-14 11:05:55
+39,TATASTEEL.NS,Tata Steel,India,Metal,NSE,2026-06-14 11:05:55
+40,HINDALCO.NS,Hindalco Industries,India,Metal,NSE,2026-06-14 11:05:55
+41,JSWSTEEL.NS,JSW Steel,India,Metal,NSE,2026-06-14 11:05:55
+42,LT.NS,Larsen & Toubro,India,Infra/Other,NSE,2026-06-14 11:05:55
+43,ADANIPORTS.NS,Adani Ports & SEZ,India,Infra/Other,NSE,2026-06-14 11:05:55
+44,ADANIENT.NS,Adani Enterprises,India,Infra/Other,NSE,2026-06-14 11:05:55
+45,ASIANPAINT.NS,Asian Paints,India,Infra/Other,NSE,2026-06-14 11:05:55
+46,GRASIM.NS,Grasim Industries,India,Infra/Other,NSE,2026-06-14 11:05:55
+47,ULTRACEMCO.NS,UltraTech Cement,India,Infra/Other,NSE,2026-06-14 11:05:55
+48,TITAN.NS,Titan Company,India,Infra/Other,NSE,2026-06-14 11:05:55
+49,BHARTIARTL.NS,Bharti Airtel,India,Infra/Other,NSE,2026-06-14 11:05:55
+50,BEL.NS,Bharat Electronics,India,Infra/Other,NSE,2026-06-14 11:05:55
+51,AAPL,Apple,US,Technology,NASDAQ,2026-06-14 11:05:55
+52,NVDA,NVIDIA,US,Technology,NASDAQ,2026-06-14 11:05:55
+53,MSFT,Microsoft,US,Technology,NASDAQ,2026-06-14 11:05:55
+54,AVGO,Broadcom,US,Technology,NASDAQ,2026-06-14 11:05:55
+55,AMD,Advanced Micro Devices,US,Technology,NASDAQ,2026-06-14 11:05:55
+56,ORCL,Oracle,US,Technology,NYSE,2026-06-14 11:05:55
+57,CSCO,Cisco Systems,US,Technology,NASDAQ,2026-06-14 11:05:55
+58,CRM,Salesforce,US,Technology,NYSE,2026-06-14 11:05:55
+59,AMZN,Amazon,US,Consumer Disc.,NASDAQ,2026-06-14 11:05:55
+60,TSLA,Tesla,US,Consumer Disc.,NASDAQ,2026-06-14 11:05:55
+61,HD,Home Depot,US,Consumer Disc.,NYSE,2026-06-14 11:05:55
+62,MCD,McDonald's,US,Consumer Disc.,NYSE,2026-06-14 11:05:55
+63,COST,Costco,US,Consumer Disc.,NASDAQ,2026-06-14 11:05:55
+64,GOOGL,Alphabet (Class A),US,Communication,NASDAQ,2026-06-14 11:05:55
+65,META,Meta Platforms,US,Communication,NASDAQ,2026-06-14 11:05:55
+66,NFLX,Netflix,US,Communication,NASDAQ,2026-06-14 11:05:55
+67,JPM,JPMorgan Chase,US,Financials,NYSE,2026-06-14 11:05:55
+68,V,Visa,US,Financials,NYSE,2026-06-14 11:05:55
+69,MA,Mastercard,US,Financials,NYSE,2026-06-14 11:05:55
+70,BAC,Bank of America,US,Financials,NYSE,2026-06-14 11:05:55
+71,BRK-B,Berkshire Hathaway (Class B),US,Financials,NYSE,2026-06-14 11:05:55
+72,LLY,Eli Lilly,US,Healthcare,NYSE,2026-06-14 11:05:55
+73,UNH,UnitedHealth Group,US,Healthcare,NYSE,2026-06-14 11:05:55
+74,JNJ,Johnson & Johnson,US,Healthcare,NYSE,2026-06-14 11:05:55
+75,ABT,Abbott Laboratories,US,Healthcare,NYSE,2026-06-14 11:05:55
+76,XOM,Exxon Mobil,US,Energy,NYSE,2026-06-14 11:05:55
+77,CVX,Chevron,US,Energy,NYSE,2026-06-14 11:05:55
+78,WMT,Walmart,US,Consumer Staples,NYSE,2026-06-14 11:05:55
+79,PG,Procter & Gamble,US,Consumer Staples,NYSE,2026-06-14 11:05:55
+80,CAT,Caterpillar,US,Industrials,NYSE,2026-06-14 11:05:55
