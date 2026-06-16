@@ -7,14 +7,14 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
-from sqlalchemy import create_engine, text
+ 
 import calendar, os, sys
 
 # ── Path setup ────────────────────────────────────────────────
 script_dir   = os.path.dirname(os.path.abspath(__file__))
 project_root = os.path.dirname(script_dir)
 sys.path.insert(0, project_root)
-import config
+ 
 
 # ── Page config ───────────────────────────────────────────────
 st.set_page_config(
