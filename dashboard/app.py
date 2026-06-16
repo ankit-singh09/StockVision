@@ -35,32 +35,27 @@ def get_engine():
 engine = get_engine()
 
 # ── Data loaders (cached per session) ────────────────────────
+DATA = os.path.join(project_root, 'data', 'processed')
+
 @st.cache_data
 def load_vol():
-    return pd.read_sql("SELECT * FROM stock_volatility",  engine)
+    return pd.read_csv(f"{DATA}/stock_volatility.csv")
 
 @st.cache_data
 def load_rr():
-    return pd.read_sql("SELECT * FROM stock_risk_return", engine)
+    return pd.read_csv(f"{DATA}/stock_risk_return.csv")
 
 @st.cache_data
 def load_seasonality():
-    df = pd.read_sql(
-        "SELECT market, MONTH(trade_date) AS mn, ROUND(AVG(daily_return)*100,4) AS avg_ret "
-        "FROM stock_features WHERE daily_return IS NOT NULL "
-        "GROUP BY market, MONTH(trade_date) ORDER BY market, mn",
-        engine
-    )
+    import calendar
+    df = pd.read_csv(f"{DATA}/seasonality.csv")
     df['month'] = df['mn'].apply(lambda x: calendar.month_abbr[x])
     return df
 
 @st.cache_data
 def load_trend(ticker):
-    return pd.read_sql(
-        "SELECT trade_date, close_price, ma_50, ma_200 "
-        "FROM stock_features WHERE ticker = %(t)s ORDER BY trade_date",
-        engine, params={'t': ticker}, parse_dates=['trade_date']
-    )
+    df = pd.read_csv(f"{DATA}/stock_features_lite.csv", parse_dates=['trade_date'])
+    return df[df['ticker'] == ticker][['trade_date','close_price','ma_50','ma_200']]
 
 vol = load_vol()
 rr  = load_rr()
