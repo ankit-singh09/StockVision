@@ -24,16 +24,6 @@ st.set_page_config(
     initial_sidebar_state = "expanded"
 )
 
-# ── DB connection (cached — created once) ─────────────────────
-@st.cache_resource
-def get_engine():
-    return create_engine(
-        f"mysql+pymysql://{config.DB_CONFIG['user']}:{config.DB_CONFIG['password']}"
-        f"@{config.DB_CONFIG['host']}:{config.DB_CONFIG['port']}/{config.DB_CONFIG['database']}"
-    )
-
-engine = get_engine()
-
 # ── Data loaders (cached per session) ────────────────────────
 DATA = os.path.join(project_root, 'data', 'processed')
 
